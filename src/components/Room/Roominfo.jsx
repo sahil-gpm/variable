@@ -49,7 +49,7 @@ const Roominfo = () => {
         setLoading(true)
 
         await axios.post(roomUrl, dataToPass).then((response) => {
-
+            console.log(response.data);
             if (response.data.success) {
                 navigate("/room/coding-area/" + location.state.roomCode, { state: { hostEmail: location.state.roomDetails?.hostemail || null, memberName: location.state.name } })
             } else {
