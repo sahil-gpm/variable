@@ -1,70 +1,41 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Variable 
 
-## Available Scripts
+Variable is a online web based sharable code editor built for learning and writing code with your friends, where the changes made to the code will be reflected in real time.
 
-In the project directory, you can run:
+# Screenshots 📸
 
-### `npm start`
+- Home page
+  <img width="1469" alt="Screenshot 2024-01-09 at 1 06 21 AM" src="https://github.com/sahil-gpm/variable/assets/142314251/d5a70bdb-ef21-4ca0-947f-538cb188aeaa">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Room information form page
+  <img width="1467" alt="Screenshot 2024-01-09 at 1 06 33 AM" src="https://github.com/sahil-gpm/variable/assets/142314251/ed376d91-a84f-42a5-9da3-13b6320c1ff4">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Code room page
+  <img width="1470" alt="Screenshot 2024-01-09 at 1 07 05 AM" src="https://github.com/sahil-gpm/variable/assets/142314251/d20c43e1-d45b-4ebf-8c68-bf24f642ea53">
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Features ➡️
+- Completely secure authentication
+- Easy coding rooms creation
+- Profile customizations 
+- Host/Admin controls 
+- Room chats
+- Room invites
 
-### `npm run build`
+# Built with ⚒️
+- React.js
+- Node.js
+- Express.js
+- Tailwind css
+- Mongo DB
+- Socket.io
+- Framer motion 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Tools 🛠️
+-  Visual Studio code 
+- Figma 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
