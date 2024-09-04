@@ -321,7 +321,7 @@ displayWelcomeMessage();`)
                                 showToast("No code written", "🔑", '#262625', 12, "white")
                                 return;
                             }
-                            navigator.clipboard.writeText(code.roomCode)
+                            navigator.clipboard.writeText(code.writtenCode)
                             showToast("Written code is copied", "🔑", '#262625', 12, "white")
                         }} />
                     </div>

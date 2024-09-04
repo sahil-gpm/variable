@@ -108,7 +108,7 @@ const Signup = () => {
 
                 {/* heading  */}
                 <div className="heading text-center text-white">
-                    <img src={user} className='w-[3%] mx-auto opacity-70' alt="" />
+                    <img src={user} className='w-[3%] mx-auto opacity-70 text-white' alt="" />
                     <div className='text-4xl text-center font-bold'>
                         <span className='bg-gradient-to-r from-text_start via-text_start to-text_end text-trans bg-clip-text'>Create</span> new account ↴⚒️
                     </div>

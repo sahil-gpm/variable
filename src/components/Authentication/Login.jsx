@@ -142,7 +142,7 @@ const Login = () => {
                             padding={9}
                             disable={processing}
                             onClick={handleLogin} />
-                        <div className='cursor-pointer font-semibold mt-10 text-sm opacity-60'>Forgot your password ?</div>
+                        <div className='cursor-pointer font-semibold mt-10 text-sm opacity-60 text-shadow'>Forgot your password ?</div>
                     </div>
 
                 </div>
